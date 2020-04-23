@@ -5,6 +5,7 @@ Template documentation and tutorials
    :maxdepth: 2
    :caption: Contents:
 
+   Introduction
 
 
 Indices and tables
